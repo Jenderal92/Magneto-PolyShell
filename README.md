@@ -87,3 +87,5 @@ The uploaded PHP file is a simple file manager (named like `xxxxx_shin.php`) tha
 
 This software is provided **for educational and authorized penetration testing purposes only**. The authors are not responsible for any misuse or damage caused by this tool. You must obtain explicit written permission from the system owner before running this exploit against any target. Unauthorized access to computer systems is a criminal offense in most jurisdictions.
 
+More Disclaimer You can see the disclaimer on the cover of Jenderal92. You can check it [HERE !!!](https://github.com/Jenderal92/)
+
